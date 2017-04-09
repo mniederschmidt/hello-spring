@@ -62,6 +62,7 @@ public class HelloController{
     }
 */
 
+    // To call this method - localhost:8080/goodbye
     @RequestMapping(value = "goodbye")
     public String goodbye() {
 
